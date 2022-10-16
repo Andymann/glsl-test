@@ -1,5 +1,7 @@
 # glsl-test
 
+glxinfo -B
+
 ### RPI 4
 
 ./glslViewer --display /dev/dri/card1 test_andy_7.frag  
